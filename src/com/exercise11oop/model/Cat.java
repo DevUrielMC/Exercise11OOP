@@ -1,6 +1,6 @@
 package com.exercise11oop.model;
 
-public class Cat {
+public abstract class Cat implements Catable{
 
 	private int id;
 	private String name;
